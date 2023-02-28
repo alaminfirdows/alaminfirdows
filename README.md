@@ -12,3 +12,6 @@
 - 📫 How to reach me? Just send an email to [alaminfirdows@gmail.com](mailto:alaminfirdows@gmail.com)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alaminfirdows&" alt="alaminfirdows" /></p>
+
+[![An image of @alaminfirdows's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alaminfirdows)](https://holopin.io/@alaminfirdows)
+
